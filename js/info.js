@@ -29,7 +29,7 @@ var sl=0;
                 if(i==(-sl*size)){
                   i=width+16;
                 }
-              }, 60);
+              }, 15);
             })
             .catch(error => console.log('error', error));
     }
