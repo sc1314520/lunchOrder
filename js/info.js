@@ -26,7 +26,7 @@ var sl=0;
               setInterval(function(){
                 i-=speed;
                 info.style.left=i+"px";
-                if(i==(-sl*size)){
+                if(i>=(-sl*size)){
                   i=width+16;
                 }
               }, 15);
