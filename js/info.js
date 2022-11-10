@@ -22,8 +22,7 @@ var sl=0;
               var i=0;
               var size = parseInt(window.getComputedStyle(info,null).getPropertyValue("font").split("/")[0]);
               var width = parseInt(window.getComputedStyle(ru,null).getPropertyValue("width"));
-              var speed = size%2 == 0 ? 2:1;
-              var time = speed==2 ? 30:60;
+              var speed = 1;
               setInterval(function(){
                 i-=speed;
                 info.style.left=i+"px";
@@ -31,7 +30,7 @@ var sl=0;
                 if(i<=(-sl*size)){
                   i=width+16;
                 }
-              }, time);
+              }, 30);
             })
             .catch(error => console.log('error', error));
     }
