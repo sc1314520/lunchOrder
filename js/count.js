@@ -1,1 +1,22 @@
-var _0x1d479c=_0x119b;function _0x9a57(){var _0x463754=['9108114EmAcks','95463kOMhpX','split','88aziRop','29760wQnDDE','280903jXDPvw','7\x200=\x228://9.a.b/c/s/d/e\x22;1\x202(){f\x20t={g:\x22h\x22,i:\x22j\x22};k(0,t).3(t=>t.l()).3(t=>{4.5(t),m.n(\x22o\x22).p=q.r(t).u}).v(t=>4.5(\x22w\x22,t))}1\x206(){x\x202()}6();','apiUri|function|sendData|then|console|log|submit|var|https|script|google|com|macros|AKfycbxH9u7moSd2e2fOVnoUb0BjkygMFFXf5YY75WSk023FOmagslMPXFs7aEBS3lmEUE8|exec|const|method|GET|redirect|follow|fetch|text|document|getElementById|countt|innerText|JSON|parse|||count|catch|error|return','340PfAiuS','70877bQbMLw','2oemqsC','2644053JPcyrD','replace','14869624reruIl','75OifSJr'];_0x9a57=function(){return _0x463754;};return _0x9a57();}function _0x119b(_0xeb324d,_0x24d112){var _0x9a5783=_0x9a57();return _0x119b=function(_0x119b07,_0x408e96){_0x119b07=_0x119b07-0x114;var _0x1ed365=_0x9a5783[_0x119b07];return _0x1ed365;},_0x119b(_0xeb324d,_0x24d112);}(function(_0x3225d8,_0x42ede7){var _0x686fc0=_0x119b,_0x9005d0=_0x3225d8();while(!![]){try{var _0x531cdb=-parseInt(_0x686fc0(0x116))/0x1+-parseInt(_0x686fc0(0x117))/0x2*(-parseInt(_0x686fc0(0x118))/0x3)+-parseInt(_0x686fc0(0x120))/0x4*(-parseInt(_0x686fc0(0x11b))/0x5)+-parseInt(_0x686fc0(0x11c))/0x6+-parseInt(_0x686fc0(0x121))/0x7*(-parseInt(_0x686fc0(0x11f))/0x8)+-parseInt(_0x686fc0(0x11d))/0x9*(parseInt(_0x686fc0(0x115))/0xa)+parseInt(_0x686fc0(0x11a))/0xb;if(_0x531cdb===_0x42ede7)break;else _0x9005d0['push'](_0x9005d0['shift']());}catch(_0x4152b4){_0x9005d0['push'](_0x9005d0['shift']());}}}(_0x9a57,0xcc40c),eval(function(_0x5b51df,_0x22dfa4,_0x462a5d,_0x4d3041,_0x2510b2,_0x4c2732){var _0x56da31=_0x119b;_0x2510b2=function(_0x1025bd){return _0x1025bd['toString'](_0x22dfa4);};if(!''[_0x56da31(0x119)](/^/,String)){while(_0x462a5d--)_0x4c2732[_0x2510b2(_0x462a5d)]=_0x4d3041[_0x462a5d]||_0x2510b2(_0x462a5d);_0x4d3041=[function(_0x215389){return _0x4c2732[_0x215389];}],_0x2510b2=function(){return'\x5cw+';},_0x462a5d=0x1;};while(_0x462a5d--)if(_0x4d3041[_0x462a5d])_0x5b51df=_0x5b51df[_0x56da31(0x119)](new RegExp('\x5cb'+_0x2510b2(_0x462a5d)+'\x5cb','g'),_0x4d3041[_0x462a5d]);return _0x5b51df;}(_0x1d479c(0x122),0x22,0x22,_0x1d479c(0x114)[_0x1d479c(0x11e)]('|'),0x0,{})));
+var apiUri='https://script.google.com/macros/s/AKfycbxH9u7moSd2e2fOVnoUb0BjkygMFFXf5YY75WSk023FOmagslMPXFs7aEBS3lmEUE8/exec'
+   
+    submit();
+    
+    function sendData() {
+        
+        const config = {
+            method: 'GET',
+            redirect: 'follow'
+        };
+
+      fetch(apiUri, config)
+        .then(response => response.text())
+        .then(result => {
+            console.log(result);
+            document.getElementById("countt").innerText=JSON.parse(result)["count"];
+        })
+        .catch(error => console.log('error', error));
+        }
+        function submit(){
+            return sendData();
+        }

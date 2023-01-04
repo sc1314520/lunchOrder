@@ -1,6 +1,6 @@
 # lunch.github.io
 <h1>訂餐系統</h1><br>
-傳送門：<a target="_blank" href="https://sc1314520.github.io/lunch.github.io/">點擊連結</a><br>
-<p> 執行版本 </p>
+<p> 備用源碼（穩定版本）</p>
+<p> 更新至 跑馬燈 階段</p>
 
 

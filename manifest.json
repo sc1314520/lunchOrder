@@ -73,7 +73,7 @@
         "sizes": "144x144",
         "type": "image/png"
       }],
-    "display": "standalone",
+    "display": "browser",
     "orientation": "portrait",
     "scope": "/",
     "start_url": "index.html"

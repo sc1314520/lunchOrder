@@ -1,1 +1,197 @@
-var _0x358f64=_0x540d;function _0x540d(_0x1d258e,_0x58e4e3){var _0x3025f4=_0x3025();return _0x540d=function(_0x540dca,_0x293774){_0x540dca=_0x540dca-0x7c;var _0x34957c=_0x3025f4[_0x540dca];return _0x34957c;},_0x540d(_0x1d258e,_0x58e4e3);}(function(_0x571c85,_0x13c14d){var _0x4d4fc1=_0x540d,_0x509a65=_0x571c85();while(!![]){try{var _0x3b397b=parseInt(_0x4d4fc1(0x82))/0x1+-parseInt(_0x4d4fc1(0x86))/0x2*(parseInt(_0x4d4fc1(0x80))/0x3)+-parseInt(_0x4d4fc1(0x8a))/0x4*(parseInt(_0x4d4fc1(0x88))/0x5)+parseInt(_0x4d4fc1(0x7c))/0x6*(parseInt(_0x4d4fc1(0x8c))/0x7)+parseInt(_0x4d4fc1(0x7d))/0x8*(parseInt(_0x4d4fc1(0x87))/0x9)+-parseInt(_0x4d4fc1(0x83))/0xa+-parseInt(_0x4d4fc1(0x7f))/0xb;if(_0x3b397b===_0x13c14d)break;else _0x509a65['push'](_0x509a65['shift']());}catch(_0x36c91a){_0x509a65['push'](_0x509a65['shift']());}}}(_0x3025,0x4d911),eval(function(_0x5918dc,_0x1ee59b,_0x51ffc9,_0x2a1f17,_0x4ac4b6,_0x17ae5e){var _0x300ec1=_0x540d;_0x4ac4b6=function(_0x1e5552){var _0x1b227f=_0x540d;return(_0x1e5552<_0x1ee59b?'':_0x4ac4b6(parseInt(_0x1e5552/_0x1ee59b)))+((_0x1e5552=_0x1e5552%_0x1ee59b)>0x23?String[_0x1b227f(0x8b)](_0x1e5552+0x1d):_0x1e5552[_0x1b227f(0x89)](0x24));};if(!''[_0x300ec1(0x85)](/^/,String)){while(_0x51ffc9--)_0x17ae5e[_0x4ac4b6(_0x51ffc9)]=_0x2a1f17[_0x51ffc9]||_0x4ac4b6(_0x51ffc9);_0x2a1f17=[function(_0x2b4323){return _0x17ae5e[_0x2b4323];}],_0x4ac4b6=function(){var _0x382578=_0x300ec1;return _0x382578(0x7e);},_0x51ffc9=0x1;};while(_0x51ffc9--)if(_0x2a1f17[_0x51ffc9])_0x5918dc=_0x5918dc[_0x300ec1(0x85)](new RegExp('\x5cb'+_0x4ac4b6(_0x51ffc9)+'\x5cb','g'),_0x2a1f17[_0x51ffc9]);return _0x5918dc;}(_0x358f64(0x84),0x3e,0x71,_0x358f64(0x8d)[_0x358f64(0x81)]('|'),0x0,{})));function _0x3025(){var _0x1e4820=['1640220SjAsdJ','p.q(\x22執行\x2014\x22);x\x20B=15(16*17.18());h(\x22您的驗證碼：\x22+B);K\x2019=O\x201a({1b:\x22#1c\x22,1d:{r:\x22\x22,y:\x22\x22,C:\x22\x22,D:\x22\x22,E:\x22\x22,F:\x22\x22,G:\x22\x22,v:\x22\x22,L:!1,P:\x221e://1f.1g.1h/1i/s/1j/1k\x22},1l:{Q(){f.L=!0,p.q(\x221m\x22);M\x20e=O\x201n;e.w(\x22r\x22,f.r),e.w(\x22y\x22,f.y),e.w(\x22C\x22,f.C),e.w(\x22D\x22,f.D),e.w(\x22E\x22,f.E),e.w(\x22F\x22,f.F),e.w(\x22G\x22,f.G),e.w(\x22v\x22,f.v),p.q(e.1o(\x22v\x22));K\x20t={1p:\x221q\x22,1r:e,1s:\x221t\x22};1u(f.P,t).R(e=>e.1v()).R(e=>{\x221w\x22===e&&(f.L=!1,f.r=f.y=f.C=f.D=f.E=f.F=f.G=f.v=\x22\x22),p.q(e)}).1x(e=>p.q(\x221y\x22,e))},S(){p.q(\x22S\x22),p.q(b.c(\x22z\x22).6);x\x20e=b.N(\x22U\x22);M\x20t=[b.c(\x22r\x22).6,b.c(\x22y\x22).6,e[0].6,e[2].6,e[1].6,e[3].6,b.c(\x22v\x22).6,V.H,b.c(\x22z\x22).6.I(\x22T\x22)[1],b.c(\x22z\x22).6.I(\x22T\x22)[0],b.c(\x22v\x22).6];K\x20n=1z(\x22是否確認送出？\x20葷食：\x22+t[2]+\x22\x20葷食(加蛋)：\x22+t[3]+\x22\x20素食：\x22+t[4]+\x22\x20素食（加蛋）：\x22+t[5]+\x22\x20取餐時間：\x22+t[7]);x\x20l;n&&(W(n)&&(p.q(\x22已送出\x22),f.Q()))}}});1A\x20W(e){x\x20t=b.N(\x22U\x22),n=b.c(\x22V\x22),l=b.c(\x221B\x22),a=b.c(\x221C\x22),m=b.N(\x221D\x22),s=b.c(\x221E\x22),u=b.c(\x221F\x22);M\x20d=[b.c(\x22r\x22).6,b.c(\x22y\x22).6,t[0].6,t[2].6,t[1].6,t[3].6,b.c(\x22v\x22).6,n.H,b.c(\x22z\x22).6];p.q(d);x\x20o=d[2]+d[3]+d[4]+d[5];j(\x22\x22==b.c(\x22r\x22).6.X()||1G==b.c(\x22r\x22).6.X())k\x20h(\x22名字不可為空\x22),!1;j(!/[\x5c1H-\x5c1I]+/g.A(b.c(\x22r\x22).6))k\x20h(\x22請輸入中文實名\x22),!1;j(!(/^\x5cd+$/.A(t[0].6)&&/^\x5cd+$/.A(t[1].6)&&/^\x5cd+$/.A(t[2].6)&&/^\x5cd+$/.A(t[3].6)))k\x20h(\x22餐點數目請輸入整數，無則請填\x200\x22),!1;j(t[0].6>5||t[1].6>5||t[2].6>5||t[3].6>5)k\x20h(\x22各餐點一次最多五份\x22),!1;j(t[0].6<0||t[1].6<0||t[2].6<0||t[3].6<0)k\x20h(\x22餐點數目不可為負值\x22),!1;j(0==o)k\x20h(\x22餐點至少訂購一份\x22),!1;j(d[0].J>10||d[0].J<2)k\x20h(\x22訂購姓名長度須介於2~10\x22),!1;j(!/^1J[0-9]{8}$/.A(d[1])||10!=d[1].J)k\x20h(\x22電話號碼輸入錯誤\x22),!1;j(b.c(\x22z\x22).6.I(\x22:\x22)[0]<11||b.c(\x22z\x22).6.I(\x22:\x22)[0]>=13)k\x20h(\x22取餐時間須介於11:Y~13:Y\x22),!1;j(b.c(\x22B\x22).6!=B)k\x20h(\x22驗證碼輸入錯誤！！\x22),!1;j(e){l.1K=!0,l.H=\x22不可再次提交\x22;1L(x\x20i=0;i<m.J;i++)m[i].1M=d[i];k\x20a.Z.12=\x221N\x22,s.Z.12=\x221O\x22,u.H=\x22媽媽便當\x22,!0}}','replace','24BXyToh','5532444eSDgfP','40ONiJpp','toString','164632AnMaZD','fromCharCode','1211609MuUNAd','||||||value|||||document|getElementById|||this||alert||if|return|||||console|log|name||||ta|append|var|num|sel|test|pass|m1|m2|m3|m4|time|innerText|split|length|const|sending|let|getElementsByClassName|new|apiUri|sendData|then|submit||is|total|Rec|trim|00|style|||display||push|parseInt|1e5|Math|random|Demo|Vue|el|app|data|https|script|google|com|macros|AKfycbxI60NIgGFlBIVHifPyhBFqtNEZtYi0_GieLYz3Af0q0rcwGmyYQN38lU0YaVzVOauhPA|exec|methods|send|FormData|get|method|POST|body|redirect|follow|fetch|text|success|catch|error|confirm|function|btn|rec|as|main|title|null|u4E00|u9FFF|09|disabled|for|innerHTML|block|none','18whYhql','8MrxssO','\x5cw+','9359713hFipUM','10077xwpPou','split','568213lCXDNQ'];_0x3025=function(){return _0x1e4820;};return _0x3025();}
+console.log("執行 push");
+
+// 第一驗證
+    // var ss = prompt("請輸入學號，外校請填90000100A");
+    // var reg = /^[4|6|8|9][0-1][0-9][0-9][0-9][1-2][0-4][0-9][A-Z|a-z]$/
+    // var fg = RegExp(reg).test(ss);
+    
+    // while(!fg){
+    //     alert("學號輸入錯誤！");
+    //     ss = prompt("請輸入學號，外校請填90000100A");
+    //     fg = RegExp(reg).test(ss);
+    // }
+    // var pass = (parseInt(ss.slice(0,8))%10000)*parseInt(Math.random()*100);
+
+    // alert("您的驗證碼： " +pass);
+
+    var pass =parseInt(Math.random()*100000);
+    alert("您的驗證碼："+pass);
+// 建立 Vue 進行資料建立與傳送
+const Demo = new Vue({
+    el: '#app',
+    data: {
+      name: '',
+      num: '',
+      m1: '',
+      m2: '',
+      m3: '',
+      m4: '',
+      time: '',
+      ta:'',
+        
+      sending: false,
+     
+      //備用表單
+      //apiUri: 'https://script.google.com/macros/s/AKfycbw27PiOS2HXFaHEMBvBNGqIPPJml8pzfoOu8Zc61YFIKxUUzyHKU6-qvZqSyBo1-eNN/exec'
+
+      //使用這個表單
+      apiUri:'https://script.google.com/macros/s/AKfycbxI60NIgGFlBIVHifPyhBFqtNEZtYi0_GieLYz3Af0q0rcwGmyYQN38lU0YaVzVOauhPA/exec'
+    },
+    methods: {
+      sendData() {
+        this.sending = true;
+        console.log("send");
+
+        // 資料創建
+        let formdata = new FormData();
+        formdata.append('name', this.name);
+        formdata.append('num', this.num);
+        formdata.append('m1', this.m1);
+        formdata.append('m2', this.m2);
+        formdata.append('m3', this.m3);
+        formdata.append('m4', this.m4);
+        formdata.append('time', this.time);
+        formdata.append('ta', this.ta);
+
+        console.log(formdata.get("ta"));
+        const config = {
+          method: 'POST',
+          body: formdata,
+          redirect: 'follow'
+        };
+        fetch(this.apiUri, config)
+          .then(response => response.text())
+          .then(result => {
+            if(result === 'success') {
+              this.sending = false;
+              this.name = this.num = this.m1 = this.m2= this.m3=this.m4=this.time=this.ta = '';
+            }
+            console.log(result);
+          })
+          .catch(error => console.log('error', error));
+  
+      },
+
+      submit() {
+        
+        console.log("submit");
+        console.log(document.getElementById("sel").value);
+
+        // 整理物件
+        var is =document.getElementsByClassName("is");
+            let objArr=[
+                document.getElementById("name").value,
+                document.getElementById("num").value,
+                is[0].value,
+                is[2].value,
+                is[1].value,
+                is[3].value,
+                document.getElementById("ta").value,
+                total.innerText,
+                document.getElementById("sel").value.split("T")[1],
+                document.getElementById("sel").value.split("T")[0],
+                document.getElementById("ta").value
+            ]
+
+        // confirm 用途
+        const flag=confirm("是否確認送出？ 葷食："+objArr[2]+" 葷食(加蛋)："+objArr[3]+" 素食："+objArr[4]+" 素食（加蛋）："+objArr[5]+" 取餐時間："+objArr[7]);
+        
+        
+        if(flag){
+
+            // 呼叫判斷
+            var x =Rec(flag);
+            if(x){
+                console.log("已送出");
+
+                // 發送資料
+                this.sendData();
+            }
+            
+            
+        } 
+      }
+    },
+})
+    // 判斷填寫資料格式
+    function Rec(flag){
+        var is =document.getElementsByClassName("is");
+        var total=document.getElementById("total");
+        var btn=document.getElementById("btn");
+        var rec=document.getElementById("rec");
+        var as=document.getElementsByClassName("as");
+        var main=document.getElementById("main");
+        var title=document.getElementById("title");
+        let objArr=[
+            document.getElementById("name").value,
+            document.getElementById("num").value,
+            is[0].value,
+            is[2].value,
+            is[1].value,
+            is[3].value,
+            document.getElementById("ta").value,
+            total.innerText,
+            document.getElementById("sel").value,
+            
+        ]
+        console.log(objArr);
+
+        // 判斷資料是否亂填
+        var sum = objArr[2]+objArr[3]+objArr[4]+objArr[5];
+        if(document.getElementById("name").value.trim()=="" || document.getElementById("name").value.trim()==undefined){
+            alert("名字不可為空");
+            return false;
+        }
+        else if(!new RegExp(/[\u4E00-\u9FFF]+/g).test(document.getElementById("name").value)){
+            alert("請輸入中文實名");
+            return false;
+        }
+        else if(!new RegExp("^\\d+$").test(is[0].value)||!new RegExp("^\\d+$").test(is[1].value)||!new RegExp("^\\d+$").test(is[2].value)||!new RegExp("^\\d+$").test(is[3].value)){
+            alert("餐點數目請輸入整數，無則請填 0");
+            return false;
+        }
+        else if (is[0].value>5||is[1].value>5||is[2].value>5||is[3].value>5){
+            alert("各餐點一次最多五份");
+            return false;
+        }
+        else if (is[0].value<0||is[1].value<0||is[2].value<0||is[3].value<0){
+            alert("餐點數目不可為負值");
+            return false;
+        }
+        else if(sum==0){
+            alert("餐點至少訂購一份");
+            return false;
+        }
+        else if (objArr[0].length>10 || objArr[0].length<2){
+            alert("訂購姓名長度須介於2~10")
+            return false;
+        }
+        else if(!new RegExp(/^09[0-9]{8}$/).test(objArr[1])||objArr[1].length!=10){
+            alert("電話號碼輸入錯誤");
+            return false;
+        }
+        else if(document.getElementById("sel").value.split(":")[0]<11||document.getElementById("sel").value.split(":")[0]>=13){
+            
+            alert("取餐時間須介於11:00~13:00");
+            return false;
+        }
+        else if(document.getElementById("pass").value!=pass){
+            alert("驗證碼輸入錯誤！！");
+            return false;
+        }
+        // 汲取資料建立明細
+        else if(flag){
+            btn.disabled=true;
+            btn.innerText="不可再次提交";
+            
+            for(var i=0;i<as.length;i++){
+                as[i].innerHTML=objArr[i];
+            }
+            rec.style.display="block";
+            main.style.display="none";
+            title.innerText="媽媽便當";
+
+            return true;
+         }
+
+    }
